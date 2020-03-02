@@ -1,0 +1,9 @@
+.editorconfig
+.gitignore
+.prettierignore
+angular.json
+package.json
+package-lock.json
+README.md
+tsconfig.json
+tslint.json

@@ -1,0 +1,9 @@
+{
+  "namespace": "<namespace>",  ###### UPDATE!
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "45.0",
+  "packageDirectories": [{
+    "path": "src/<namespace>", ###### UPDATE!
+    "default": true
+  }]
+}

@@ -1,0 +1,22 @@
+# IDE Support: VS Code
+.vscode
+.sfdx
+
+# IDE Support: IntelliJ & Illuminated Cloud
+.project
+.idea
+docman.iml
+IlluminatedCloud
+.settings
+
+# JS Test Support
+.grunt
+_SpecRunner.html
+node_modules
+spec/lib/__MACOSX/*
+
+# Miscellaneous
+debug/*
+salesforce.schema
+**/.DS_Store
+apex-unit-tests.xml
